@@ -1,2 +1,3 @@
 # Body mass index (BMI)
-Check out here : https://info.rohitshukla.net/
+<span>Check out here : 
+<a href ="https://info.rohitshukla.net" target="_blank" >https://info.rohitshukla.net/</a></span>
